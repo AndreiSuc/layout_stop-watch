@@ -1,0 +1,2 @@
+body{margin:0}.circle,.minute,.second{position:absolute;left:50%;bottom:50%}.circle{width:24px;height:24px;border-radius:50%}.minute{height:175px;animation:rotate 3600s linear 2s infinite}.minute,.second{width:12px;border-radius:5px;background:linear-gradient(#969696,#000);transform-origin:bottom center}.second{height:300px;animation:rotate 60s linear 2s infinite}.circle{background-color:#000;transform:translate(-25%,50%)}@keyframes rotate{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.cadb9860.css.map */
